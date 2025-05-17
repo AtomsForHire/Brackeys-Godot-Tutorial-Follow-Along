@@ -8,3 +8,4 @@ Added some stuff on-top to for learning:
 * Finite state machine with this
 ![tutorial](https://youtu.be/ow_Lum-Agbs?si=ijQw3WSK8Ywmq-FS)
 * Added a wall jump mechanic
+* Added some extra raycasts on enemies
